@@ -192,7 +192,6 @@ The EDA process was conducted using  SQL queries. The results of the EDA are sto
 
 📌 **Project Assets:**  
 - 📂 [Dataset Folder](https://github.com/basudabC/SQL-Data-Warehouse-Project/tree/main/datasets)  
-- 📝 [Project Notion Page](https://www.notion.so/rudra-12345g/SQL-Data-Warehouse-Project-By-Rudra-1a65c069c4db80aeacecf558aeeb2c78)  
 - 🎨 [Diagramming Tool (Draw.io)](https://www.drawio.com/)  
 
 ---
@@ -205,15 +204,14 @@ The EDA process was conducted using  SQL queries. The results of the EDA are sto
 
 ## 🙏 Thank you
 A special thank you to my instructor, Baraa Khatib Salkini.IT Project Manager | Lead Big Data, Data Lakehouse and BI at Mercedes-Benz AG. I learned many things from him.
-*   [LinkedIn](https://www.linkedin.com/in/baraa-khatib-salkini-845b1b55/)
-*   [YouTube](https://www.youtube.com/@DataWithBaraa) 
+*   [LinkedIn](https://www.linkedin.com/in/basudab007/)
 
 
 
 ## 📌 **Follow me on:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rudra-prasad-bhuyan-44a388235)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/basudab007/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/basudabC)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-blue?logo=kaggle)](https://www.kaggle.com/rudraprasadbhuyan)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-blue?logo=kaggle)](https://www.kaggle.com/basudab)  
 
-📧 Email me at: [rudraprasadbhuyan000@gmail.com](mailto:rudraprasadbhuyan000@gmail.com)  
+📧 Email me at: [rudraprasadbhuyan000@gmail.com](mailto:basudab.chowdhory@gmail.com)  
 
