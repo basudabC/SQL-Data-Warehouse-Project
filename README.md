@@ -1,8 +1,8 @@
 # 🌟 **Modern Data Warehouse & Analytics End-to-End Project**  
 
 👋 Hello, Data Points! 
-- My name is **Rudra Prasad Bhuyan** ! 😄
-- I am a Kaggle expert and a Google Certified Data Analyst.
+- My name is **Basudab Chowdhury Raj** ! 😄
+- I am a Kaggle expert and a Google Certified BI & Data Scientist.
 
 Welcome to this **Modern Data Warehouse & Analytics End-to-End Project** project using **PostgreSQL**! 🎯  
 
