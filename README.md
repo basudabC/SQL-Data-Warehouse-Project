@@ -213,5 +213,5 @@ A special thank you to my instructor, Baraa Khatib Salkini.IT Project Manager | 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/basudabC)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-Explore-blue?logo=kaggle)](https://www.kaggle.com/basudab)  
 
-📧 Email me at: [rudraprasadbhuyan000@gmail.com](mailto:basudab.chowdhory@gmail.com)  
+📧 Email me at: [basudab.chowdhory@gmail.com](mailto:basudab.chowdhory@gmail.com)  
 
